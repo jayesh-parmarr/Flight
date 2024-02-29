@@ -1,0 +1,18 @@
+Q1 What my model should take as input from user
+	1. Origin
+	2. Destination
+	3. Airline
+	4. CRS Dep. Time
+	5. CRS Arr Time
+	6. CRS Elapsed Time
+	7. AirTime (Not from user)
+	8. Distance (Not from user)
+	9. Date
+	10. Day of week(Not From user)
+	11. Weekend?(Not from user)
+	12. Month (Not From User)
+	13. Year (Not from user)
+
+Q2 OP from Model
+	1. Flight Status on Dept. (Delay, On Time,Early Dep)
+	2. Flight Status on Arr. (Delay, On time, Early Arrival)
